@@ -1,2 +1,1 @@
-# security_studies
-Basic security algorithms from university studies
+Basic algorithms from university studies.
